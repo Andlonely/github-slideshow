@@ -1,0 +1,10 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+main()
+
+float a, b 
+
+printf("ola, qual o seur nome?");
+scanf("%f",&a);
+printf("\n Olá, %f tudo bem?",a)
